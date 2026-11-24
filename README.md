@@ -139,7 +139,7 @@ Autres éléments : paramètre de champ `Indicateur` (bascule entre montant, enc
 | **1 · Qualité des données** | 96,2 % des lignes sont conformes avant nettoyage | Score par source, anomalies par type, corrigées vs exclues |
 | **2 · Portefeuille** | Le montant accordé recule de 8,7 % en 2025 | KPI, évolution annuelle avec YoY, statut des crédits, segments de risque |
 | **3 · Risque et agences** | 3 agences concentrent 23 % des impayés | Top 5 agences, carte, KPI de risque |
-| **Détail agence** (drill-through) | — | Fiche d’une agence : KPI, évolution, répartition par type, top 10 des crédits en retard |
+| **Détail agence** (drill-through) | Titre dynamique : nom de l'agence sélectionnée | Fiche d'une agence : KPI, évolution, répartition par type, top 10 des crédits en retard |
 
 ![Page 1](screenshots/Qualite_des_donnees.png)
 ![Page 2](screenshots/Portefeuille.png)
