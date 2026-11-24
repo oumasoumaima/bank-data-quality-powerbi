@@ -4,7 +4,8 @@
 
 > *End-to-end Power BI project: Python data generation → Power Query cleaning → star schema → DAX → 3-page dashboard with drill-through and row-level security.*
 
-![Aperçu du dashboard](screenshots/00_apercu.png)
+![Aperçu du dashboard](screenshots/Qualite_des_donnees.png)
+
 
 > **Données 100 % fictives.** Le jeu de données est généré par un script Python (`generer_donnees.py`) avec des erreurs injectées volontairement. Il ne contient aucune donnée réelle ni confidentielle.
 
@@ -103,7 +104,7 @@ Schéma en étoile : `Crédits` au centre, filtré par `Agences`, `Clients` et `
 - Table `Audit_Qualité` reliée à `Agences`.
 - Table de mesures dédiée (`_Mesures`), colonnes techniques masquées.
 
-![Modèle en étoile](screenshots/01_modele.png)
+![Modèle en étoile](screenshots/modele_en_etoile.png)
 
 ## 7. Mesures DAX principales
 
@@ -140,9 +141,9 @@ Autres éléments : paramètre de champ `Indicateur` (bascule entre montant, enc
 | **3 · Risque et agences** | 3 agences concentrent 23 % des impayés | Top 5 agences, carte, KPI de risque |
 | **Détail agence** (drill-through) | — | Fiche d’une agence : KPI, évolution, répartition par type, top 10 des crédits en retard |
 
-![Page 1](screenshots/02_page1_qualite.png)
-![Page 2](screenshots/03_page2_portefeuille.png)
-![Page 3](screenshots/04_page3_risque.png)
+![Page 1](screenshots/Qualite_des_donnees.png)
+![Page 2](screenshots/Portefeuille.png)
+![Page 3](screenshots/Risque_et_agences.png)
 
 **Design :** thème personnalisé *Daylight Finance* (`Daylight_Finance_theme.json`), police Segoe UI, grille de 1280 × 720 px, titres qui énoncent le message.
 
