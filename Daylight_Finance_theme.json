@@ -1,0 +1,30 @@
+{
+  "name": "Daylight Finance",
+  "dataColors": ["#2563EB", "#F0B429", "#0D9488", "#7C3AED", "#DC2626", "#64748B", "#0EA5E9", "#EA580C"],
+  "background": "#FFFFFF",
+  "foreground": "#14213D",
+  "tableAccent": "#2563EB",
+  "good": "#0D9488",
+  "neutral": "#F0B429",
+  "bad": "#DC2626",
+  "maximum": "#2563EB",
+  "center": "#F0B429",
+  "minimum": "#CBD5E4",
+  "textClasses": {
+    "callout": {"fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "title": {"fontSize": 13, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "header": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#14213D"},
+    "label": {"fontSize": 11, "fontFace": "Segoe UI", "color": "#5B6B85"}
+  },
+  "visualStyles": {
+    "*": {"*": {
+      "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+      "border": [{"show": true, "color": {"solid": {"color": "#E1E8F2"}}, "radius": 12}],
+      "title": [{"show": true, "fontColor": {"solid": {"color": "#14213D"}}, "fontSize": 13}],
+      "visualHeader": [{"show": false}]
+    }},
+    "page": {"*": {
+      "background": [{"color": {"solid": {"color": "#F4F7FB"}}, "transparency": 0}]
+    }}
+  }
+}

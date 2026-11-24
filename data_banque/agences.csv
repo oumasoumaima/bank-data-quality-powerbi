@@ -1,0 +1,26 @@
+﻿agence_id,ville_agence,region,latitude,longitude,directeur
+AG001,Casablanca,Casablanca-Settat,33.5731,-7.5898,Y. Alaoui
+AG002,Mohammedia,Casablanca-Settat,33.6866,-7.383,S. Benjelloun
+AG003,Settat,Casablanca-Settat,33.001,-7.6166,K. Idrissi
+AG004,El Jadida,Casablanca-Settat,33.2316,-8.5007,M. Tazi
+AG005,Rabat,Rabat-Salé-Kénitra,34.0209,-6.8416,A. Berrada
+AG006,Salé,Rabat-Salé-Kénitra,34.0531,-6.7985,H. Lahlou
+AG007,Kénitra,Rabat-Salé-Kénitra,34.261,-6.5802,N. Chraibi
+AG008,Marrakech,Marrakech-Safi,31.6295,-7.9811,R. Fassi
+AG009,Safi,Marrakech-Safi,32.2994,-9.2372,L. Bennani
+AG010,Fès,Fès-Meknès,34.0331,-5.0003,O. Kettani
+AG011,Meknès,Fès-Meknès,33.8935,-5.5473,Y. Alaoui
+AG012,Tanger,Tanger-Tétouan-Al Hoceïma,35.7595,-5.834,S. Benjelloun
+AG013,Tétouan,Tanger-Tétouan-Al Hoceïma,35.5785,-5.3684,K. Idrissi
+AG014,Agadir,Souss-Massa,30.4278,-9.5981,M. Tazi
+AG015,Taroudant,Souss-Massa,30.4703,-8.8769,A. Berrada
+AG016,Oujda,Oriental,34.6814,-1.9086,H. Lahlou
+AG017,Nador,Oriental,35.1681,-2.9335,N. Chraibi
+AG018,Béni Mellal,Béni Mellal-Khénifra,32.3373,-6.3498,R. Fassi
+AG019,Khouribga,Béni Mellal-Khénifra,32.8811,-6.9063,L. Bennani
+AG020,Laâyoune,Laâyoune-Sakia El Hamra,27.1253,-13.1625,O. Kettani
+AG021,Dakhla,Dakhla-Oued Ed-Dahab,23.6848,-15.958,Y. Alaoui
+AG022,Errachidia,Drâa-Tafilalet,31.9314,-4.4244,S. Benjelloun
+AG023,Ouarzazate,Drâa-Tafilalet,30.9335,-6.937,K. Idrissi
+AG024,Al Hoceïma,Tanger-Tétouan-Al Hoceïma,35.2517,-3.9372,M. Tazi
+AG025,Taza,Fès-Meknès,34.21,-4.01,A. Berrada
